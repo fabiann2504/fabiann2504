@@ -87,7 +87,7 @@ status    : [ONLINE] hunting bugs
 
 | Project | Stack | Link |
 |---|---|---|
-| Portfolio ./Xcloud | PHP, Node.js, Express, matrix rain & terminal UI | [fabianimagination.my.id](https://fabianimagination.my.id) |
+| Portfolio ./Xcloud | PHP, Node.js, Express, matrix rain & terminal UI | [fabianimagination.my.id](https://fabianimagination.web.id) |
 | Portfolio (deep-space) | FastAPI, React, Three.js | TODO |
 | FABZ.ID URL Shortener | React | TODO |
 | COMPAS (platform suporter PSS Sleman) | Full-stack | TODO |
