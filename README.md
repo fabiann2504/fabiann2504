@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://fabianimagination.my.id"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" /></a>
+<a href="https://fabianimagination.web.id"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF41" /></a>
 <a href="https://xcloud-baik.blogspot.com"><img src="https://img.shields.io/badge/-Blog-0D1117?style=for-the-badge&logo=blogger&logoColor=00FF41" /></a>
 <a href="https://yeswehack.com/hunters/fabz889"><img src="https://img.shields.io/badge/-YesWeHack-0D1117?style=for-the-badge&logoColor=00FF41" /></a>
 
