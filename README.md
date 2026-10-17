@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=.%2FXcloud&fontSize=64&fontColor=00FF41&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Security%20Researcher&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
+<img src="https://avatars.githubusercontent.com/u/236376329?v=4" width="150" height="150" style="border-radius:50%;border:3px solid #00FF41;box-shadow:0 0 25px #00FF41;" alt="fabiann2504" />
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=760&height=60&lines=root%40xcloud%3A~%23+whoami;Yudya+Naufal+Fabian+%7C+.%2FXcloud;Bug+Bounty+Hunter+%7C+Security+Researcher;Building+Cloud+Payment+%7C+QRIS+Gateway;Informatics+Student+%40+UTY" alt="typing" />
 
 <br/>
@@ -176,9 +180,12 @@ Gateway pembayaran **QRIS dinamis** yang saya rancang & bangun sendiri, sudah be
 └─$ ./stats.sh
 ```
 
+<!-- cache_seconds dinaikkan ke maksimum (86400 = 24 jam) supaya kartu ini
+     tidak terus memanggil GitHub API dan kena rate limit -> "Something went
+     wrong" di instance publik vercel.app -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiann2504&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiann2504&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_color=00FF41" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiann2504&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=00FF41&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiann2504&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9&border_color=00FF41&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -199,6 +206,10 @@ Gateway pembayaran **QRIS dinamis** yang saya rancang & bangun sendiri, sudah be
 └─$ ./snake.sh --eat contributions
 ```
 
+<!-- Gambar ini HANYA muncul kalau workflow .github/workflows/snake.yml
+     sudah ditambahkan ke repo ini dan sudah jalan minimal 1x, karena file
+     svg-nya di-generate ke branch "output" oleh GitHub Actions, bukan file
+     statis. Lihat file snake.yml yang disertakan terpisah. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiann2504/fabiann2504/output/github-snake-neon.svg" />
